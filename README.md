@@ -1,9 +1,6 @@
 ## Pandas-Challenge
 Christopher Turner - Wk4Challenge
 
-Notes:
-
-
 
 ### This repo contains the following files:
 
@@ -11,8 +8,6 @@ Notes:
 #### - PyCitySchools Directory
 
 **PyCitySchools_starter.ipynb**: The Jupyter notebook containing the analysis and code.
-
-**pandas_challenge-written_report .txt**: Text file with the Written Report based on analysis.
 
 **Resources**: Directory containing data files.
 
